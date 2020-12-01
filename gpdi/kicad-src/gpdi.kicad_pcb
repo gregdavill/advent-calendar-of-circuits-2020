@@ -1015,6 +1015,11 @@
       (net 1 "GND") (pinfunction "SH") (tstamp 6bc5774a-e34d-48fa-a2e5-4a3ba8119350))
     (pad "SH" thru_hole oval (at 7.25 0.05) (size 1.2 1.9) (drill oval 0.8 1.3) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "SH") (tstamp ed5a77c7-dfe0-4ccc-9b2f-20c21082e2ce))
+    (model "../lib/3d/10029449-111RLF.stp"
+      (offset (xyz 0 -1.76 3.3))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -2787,6 +2792,11 @@
       (net 1 "GND") (pinfunction "SH") (tstamp 529d640e-0af3-41bc-bd56-578b904471e8))
     (pad "SH" thru_hole oval (at -7.25 0.05) (size 1.2 1.9) (drill oval 0.8 1.3) (layers *.Cu *.Mask)
       (net 1 "GND") (pinfunction "SH") (tstamp 72794c8a-448d-4c12-9bd8-e89bffff90cf))
+    (model "${KIPRJMOD}/../../lib/3d/10029449-111RLF.stp"
+      (offset (xyz 0 -1.75 3.4))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
@@ -4229,7 +4239,7 @@
       (net 1 "GND") (pinfunction "GND") (tstamp bd795e6a-999f-41d0-b208-b7e99306e6ca))
     (pad "41" smd roundrect (at 3.15 0 270) (size 0.5 4.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2)
       (net 1 "GND") (pinfunction "GND") (tstamp feafb436-5377-44bc-bff4-0e81bf992020))
-    (model "${KIPRJMOD}/packages3d/gkl_conn.3dshapes/QTE-020-01-F-D.step"
+    (model "${KIPRJMOD}/../../lib/3d/QTE-020-01-F-D.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
