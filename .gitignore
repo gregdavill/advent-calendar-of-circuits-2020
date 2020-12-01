@@ -1,0 +1,3 @@
+*.kicad_sch-bak
+*-backups/
+*.bak
