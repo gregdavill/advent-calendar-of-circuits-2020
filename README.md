@@ -11,6 +11,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   4. [__pcie_x4__](pcie_x4/) SYZYGY pod creating a PCIe x4 add-in card
   5. [__icebreaker++__](icebreaker++/) icebreaker FPGA board, upgraded with an ECP5
   6. [__pcie_x1__](pcie_x1/) SYZYGY pod creating a compact PCIe x1 add-in card
+  7. [__arm-watch__](arm-watch) New ARM based controller for the Casio CA-53W watch
   
 
 ## Licence
