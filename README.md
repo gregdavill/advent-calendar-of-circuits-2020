@@ -10,6 +10,8 @@ The challenge is to design an average of 1 circuit board design and layout per d
   3. [__meiji-led-ring__](meiji-led-ring/) Illuminator to fit around the front of a microscope
   4. [__pcie_x4__](pcie_x4/) SYZYGY pod creating a PCIe x4 add-in card
   5. [__icebreaker++__](icebreaker++/) icebreaker FPGA board, upgraded with an ECP5
+  6. [__pcie_x1__](pcie_x1/) SYZYGY pod creating a compact PCIe x1 add-in card
+  
 
 ## Licence
  * Hardware in this repository is licensed under MIT
