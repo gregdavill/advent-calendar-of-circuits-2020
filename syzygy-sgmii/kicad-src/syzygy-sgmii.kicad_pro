@@ -401,7 +401,7 @@
     },
     "net_format_name": "Pcbnew",
     "page_layout_descr_file": "",
-    "plot_directory": "./production",
+    "plot_directory": "../production",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -409,7 +409,7 @@
   },
   "sheets": [
     [
-      "a9403098-b512-440f-9c13-0abd4f95b960",
+      "18f626cb-edb4-47b2-820b-b253c4aad648",
       ""
     ],
     [

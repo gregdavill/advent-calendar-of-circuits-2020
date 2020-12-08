@@ -3,8 +3,8 @@
   (paper "A4")
 
   (title_block
-    (title "SYZYGY PCIe x4")
-    (date "2020-12-04")
+    (title "SYZYGY SGMII")
+    (date "2020-12-08")
     (rev "r1.0")
     (company "GsD - @gregdavill")
   )
