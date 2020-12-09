@@ -13,8 +13,9 @@ The challenge is to design an average of 1 circuit board design and layout per d
   6. [__pcie_x1__](pcie_x1/) SYZYGY pod creating a compact PCIe x1 add-in card
   7. [__arm-watch__](arm-watch/) New ARM based controller for the Casio CA-53W watch
   8. [__syzygy-sgmii__](syzygy-sgmii/) Gigabit ethernet using an SGMII based PHY
+  9. [__hdmi-si__](hdmi-si/) HDMI breakout board
   
 
 ## Licence
- * Hardware in this repository is licensed under MIT
+ * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
 
