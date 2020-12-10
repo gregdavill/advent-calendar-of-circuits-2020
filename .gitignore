@@ -7,3 +7,5 @@ _autosave*
 fp-info-cache
 
 .~*
+
+*.plan

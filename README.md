@@ -14,7 +14,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   7. [__arm-watch__](arm-watch/) New ARM based controller for the Casio CA-53W watch
   8. [__syzygy-sgmii__](syzygy-sgmii/) Gigabit ethernet using an SGMII based PHY
   9. [__hdmi-si__](hdmi-si/) HDMI breakout board
-  
+  10. [__quad-7segment__](pmod-quad-7segment/) PMOD with a quad 7segment
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
