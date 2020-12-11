@@ -1,4 +1,4 @@
-# GPDI breakout
+# SYZYGY breakout
 
 SYZYGY is an FPGA expansion standard for medium to high speed interfaces. Learn more and check out the specifications here: [https://syzygyfpga.io/](https://syzygyfpga.io/)
 
