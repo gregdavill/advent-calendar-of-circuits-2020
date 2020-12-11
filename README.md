@@ -15,6 +15,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   8. [__syzygy-sgmii__](syzygy-sgmii/) Gigabit ethernet using an SGMII based PHY
   9. [__hdmi-si__](hdmi-si/) HDMI breakout board
   10. [__quad-7segment__](pmod-quad-7segment/) PMOD with a quad 7segment
+  11. [__syzygy-breakout](syzygy-breakout/) Breakout board for a standard SYZYGY connector
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
