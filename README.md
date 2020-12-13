@@ -17,6 +17,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   10. [__quad-7segment__](pmod-quad-7segment/) PMOD with a quad 7segment
   11. [__syzygy-breakout__](syzygy-breakout/) Breakout board for a standard SYZYGY connector
   12. [__icebreaker++-ram__](icebreaker++-ram/) icebreaker FPGA board, upgraded with an ECP5 (+extra RAM)
+  13. [__sd-dummy__](pmod-sd-dummy/) Dummy SD card to connect to a host system via SDIO
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
