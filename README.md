@@ -19,6 +19,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   12. [__icebreaker++-ram__](icebreaker++-ram/) icebreaker FPGA board, upgraded with an ECP5 (+extra RAM)
   13. [__sd-dummy__](pmod-sd-dummy/) Dummy SD card to connect to a host system via SDIO
   14. [__gpdi-serdes__](gpdi-serdes/) GPDI using the serdes
+  15. [__rpi-hq-camera__](rpi-hq-camera/) Connector for the Raspberry Pi HQ camera
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
