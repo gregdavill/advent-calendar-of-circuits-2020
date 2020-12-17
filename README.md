@@ -20,6 +20,8 @@ The challenge is to design an average of 1 circuit board design and layout per d
   13. [__sd-dummy__](pmod-sd-dummy/) Dummy SD card to connect to a host system via SDIO
   14. [__gpdi-serdes__](gpdi-serdes/) GPDI using the serdes
   15. [__rpi-hq-camera__](rpi-hq-camera/) Connector for the Raspberry Pi HQ camera
+  16. [__syzygy-pmod__](syzygy-pmod/) SYZYGY to PMOD adapter
+  17. [__pmod-gnss__](pmod-gnss/) GNSS PMOD, GPS + Glonass
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
