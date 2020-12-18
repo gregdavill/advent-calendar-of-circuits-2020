@@ -22,6 +22,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   15. [__rpi-hq-camera__](rpi-hq-camera/) Connector for the Raspberry Pi HQ camera
   16. [__syzygy-pmod__](syzygy-pmod/) SYZYGY to PMOD adapter
   17. [__pmod-gnss__](pmod-gnss/) GNSS PMOD, GPS + Glonass
+  18. [__led-panel__](led-panel/) Breakout for some White LEDs
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
