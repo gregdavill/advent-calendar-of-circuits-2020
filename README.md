@@ -25,6 +25,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   18. [__led-panel__](led-panel/) Breakout for some White LEDs
   19. [__syzygy-txr-breakout__](syzygy-txr-breakout/) SYZYGY TXR4 to SMA connectors
   20. [__syzygy-dual-atto320__](syzygy-dual-atto320/) SYZYGY to dual Atto320 LWIR sensors
+  21. [__syzygy-rgb888-lcd__](syzygy-rgb888-lcd/) SYZYGY 5" 800x480 LCD panel
   
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
