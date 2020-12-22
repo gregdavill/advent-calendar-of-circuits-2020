@@ -26,6 +26,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   19. [__syzygy-txr-breakout__](syzygy-txr-breakout/) SYZYGY TXR4 to SMA connectors
   20. [__syzygy-dual-atto320__](syzygy-dual-atto320/) SYZYGY to dual Atto320 LWIR sensors
   21. [__syzygy-rgb888-lcd__](syzygy-rgb888-lcd/) SYZYGY 5" 800x480 LCD panel
+  22. [__memory-lcd-wing__](memory-lcd-wing/) minimal wing for OrangeCrab
   
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
