@@ -837,11 +837,6 @@
       (net 1 "GND") (pinfunction "MountPin") (tstamp 368d3ace-d7d0-47c5-867a-28ed262a649e))
     (pad "MP" smd roundrect (at -11.75 3.08) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (pinfunction "MountPin") (tstamp e0f48870-406e-49fb-8928-220731bc8b43))
-    (model "/home/greg/projects/FireCam/lib/gkl/packages3d/gkl_conn.3dshapes/FH28E-30S-0.5SH.step"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (layer "F.Cu")

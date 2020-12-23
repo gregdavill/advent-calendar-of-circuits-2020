@@ -62,9 +62,4 @@
   (pad "40" smd roundrect (at 9.75 0) (size 0.27 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 91ee9479-f180-4829-a7f6-075bff896f65))
   (pad "MP" smd roundrect (at -11.75 3.08) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 766ee911-20fe-48e6-b871-115b399af82e))
   (pad "MP" smd roundrect (at 11.75 3.08) (size 1.6 2.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a55dad18-1b65-4895-bd42-65cbadcd1b38))
-  (model "/home/greg/projects/FireCam/lib/gkl/packages3d/gkl_conn.3dshapes/FH28E-30S-0.5SH.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
