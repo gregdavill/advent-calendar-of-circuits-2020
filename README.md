@@ -28,7 +28,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   21. [__syzygy-rgb888-lcd__](syzygy-rgb888-lcd/) SYZYGY 5" 800x480 LCD panel
   22. [__memory-lcd-wing__](memory-lcd-wing/) minimal wing for OrangeCrab
   23. [__syzygy-flir-tau2__](syzygy-flir-tau2/) SYZYGY tau2 LWIR core
-  
+  24. [__syzygy-flir-boson__](syzygy-flir-boson/) SYZYGY boson LWIR core
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
 

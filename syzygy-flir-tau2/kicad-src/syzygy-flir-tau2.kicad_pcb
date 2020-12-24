@@ -33829,7 +33829,7 @@
       (net 1 "GND") (pinfunction "MountPin") (tstamp 267b6b39-7dc9-485d-a9b7-b1e5657224bb))
     (pad "MP" smd rect (at 7.75 0 180) (size 0.8 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "MountPin") (tstamp 37de311c-da7f-4ad9-bb1b-0c2d2b96542c))
-    (model "/home/greg/Projects/advent-calendar-of-circuits-2020/lib/3d/DF12(5.0)-50DP.step"
+    (model "${KIPRJMOD}/../../lib/3d/DF12(5.0)-50DP.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

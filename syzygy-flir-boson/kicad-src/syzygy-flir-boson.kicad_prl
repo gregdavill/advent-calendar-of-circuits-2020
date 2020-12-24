@@ -1,9 +1,9 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
@@ -63,7 +63,7 @@
     "visible_layers": "00090f3_80000007"
   },
   "meta": {
-    "filename": "syzygy-flir-tau2.kicad_prl",
+    "filename": "syzygy-flir-boson.kicad_prl",
     "version": 2
   },
   "project": {
