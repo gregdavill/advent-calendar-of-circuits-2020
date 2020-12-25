@@ -1,0 +1,23 @@
+(kicad_sch (version 20201015) (generator eeschema)
+
+  (paper "A4")
+
+  (title_block
+    (title "SCD30 PCB")
+    (date "2020-12-24")
+    (rev "r1.0")
+    (company "Greg Davill")
+  )
+
+  (lib_symbols
+  )
+
+  (bus_alias "GPDI" (members "CK_N" "CK_P" "D0_N" "D0_P" "D1_N" "D1_P" "D2_N" "D2_P"))
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+  )
+)
