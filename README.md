@@ -33,6 +33,7 @@ The challenge is to design an average of 1 circuit board design and layout per d
   26. [__esp32s2-co2-monitor__](esp32s2-co2-monitor/) ESP32s2 + Sharp memory LCD + CO2 Monitor
   27. [__jtag-programmer__](jtag-programmer/) FT232H based JTAG programmer
   28. [__ECPBreaker__](ecpbreaker/) ECP5 based icebreaker update, FX2 HS USB + SYZYGY
+  29. [__esp32s2-lepton__](esp32s2-lepton/) Small ESP32 based thermal camera
 
 ## Licence
  * Unless otherwise indicated hardware in this repository is licensed under CERN-OHL-P-2.0
