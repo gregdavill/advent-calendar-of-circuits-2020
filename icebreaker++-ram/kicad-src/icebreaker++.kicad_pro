@@ -294,7 +294,6 @@
       ]
     ],
     "rule_severities": {
-      "": "error",
       "bus_definition_conflict": "error",
       "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
@@ -394,7 +393,7 @@
   },
   "sheets": [
     [
-      "53b15564-c1ea-40b3-91c7-7c33b4a8560a",
+      "8185397a-7e89-4f5d-b5cb-16720b161645",
       ""
     ],
     [
