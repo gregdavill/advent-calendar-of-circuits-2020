@@ -2,6 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -58,7 +59,8 @@
       37,
       38
     ],
-    "visible_layers": "003f3fc_8000000d"
+    "visible_layers": "003f3fc_8000000d",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ecpbreaker.kicad_prl",
